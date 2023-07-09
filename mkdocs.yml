@@ -22,3 +22,5 @@ nav:
 
 theme:
     name: material
+    language: 'zh'
+    favicon: images/icon.jpg
