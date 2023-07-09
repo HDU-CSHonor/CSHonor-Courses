@@ -15,6 +15,8 @@
     ```shell
     $ pip install -r requirements.txt
     ```
+    注：如果有conda环境的话，最好在Anaconda Prompt终端环境下执行以上命令，如果直接在cmd安装成功但下一步执行失败的，则需要在conda环境中重新安装
+
 3. 启动 mkdocs 本地服务
     ```shell
     $ mkdocs serve
