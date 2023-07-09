@@ -7,17 +7,44 @@ copyright: Copyright &copy; 2023 杭州电子科技大学计算机科学英才�
 nav:
   - 主页: 
     - index.md
-    - 贡献指南: contributing.md
+    - 贡献指南:     contributing.md
     - 课程页面模板: template.md
   - 数理基础课:
     - math_phys/index.md
-    - 数学分析1:    math_phys/math_analysis1/index.md
-    - 数学分析2:    math_phys/math_analysis2/index.md
-    - 高等代数1:    math_phys/advanced_algebra1/index.md
-    - 高等代数2:    math_phys/advanced_algebra2/index.md
-    - 概率论与数理统计: math_phys/probability/index.md
-    - 大学物理1: math_phys/physics1/index.md
-    - 大学物理2: math_phys/physics2/index.md
+    - 数学分析1:            math_phys/math_analysis1/index.md
+    - 数学分析2:            math_phys/math_analysis2/index.md
+    - 高等代数1:            math_phys/advanced_algebra1/index.md
+    - 高等代数2:            math_phys/advanced_algebra2/index.md
+    - 概率论与数理统计:     math_phys/probability/index.md
+    - 大学物理1:            math_phys/physics1/index.md
+    - 大学物理2:            math_phys/physics2/index.md
+  - 外语课:
+    - foreign_language/index.md
+    - 大学英语听说(H):    foreign_language/listening_and_speaking/index.md
+    - 大学英语精读(H):    foreign_language/intensive_reading/index.md
+    - 雅思英语1(H):       foreign_language/IELTS1/index.md
+    - 雅思英语2(H):       foreign_language/IELTS2/index.md
+    - 托福英语1(H):       foreign_language/TOEFL1/index.md
+    - 托福英语2(H):       foreign_language/TOEFL2/index.md
+  - 思政课:
+    - politics/index.md
+    - 思想道德与法治:      politics/rule_of_law/index.md
+    - 中国近现代史纲要:    politics/history/index.md
+    - 毛泽东思想和中国特色社会主义理论体系概论:      
+        politics/mao/index.md
+    - 习近平新时代中国特色社会主义思想概论:      
+        politics/xi/index.md
+    - 马克思主义基本原理:  politics/marxism/index.md
+    - 形势与政策:          politics/policies/index.md
+  - 学科必修课:
+    - required_subjects/index.md
+    - 程序设计与算法基础:     required_subjects/basis/index.md
+    - 计算机类学科导论:       required_subjects/intro/index.md
+    - 计算机科学概论:         required_subjects/overview/index.md
+    - 面向对象程序设计(C++):  required_subjects/cpp/index.md
+    - 面向对象程序设计(Java): required_subjects/java/index.md
+    - 数字电路设计:           required_subjects/circuit/index.md
+    - 数据库系统及实践:       required_subjects/database/index.md
 
 
 theme:
